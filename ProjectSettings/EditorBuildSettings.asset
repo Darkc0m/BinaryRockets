@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main menu.unity
+    guid: 34510dcae98f51d449e283049998b783
+  - enabled: 1
+    path: Assets/Scenes/Arithmetic Easy.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Arithmetic Hard.unity
+    guid: 04e92d65d59323f46a7efb5a5df38d58
+  - enabled: 1
+    path: Assets/Scenes/Logic Hard.unity
+    guid: e9b366e1ba86eea43b6a8a3d56554602
+  - enabled: 1
+    path: Assets/Scenes/Logic Easy.unity
+    guid: b3ffd72e7917c454595d3ac7dfbd1c52
+  - enabled: 1
+    path: Assets/Scenes/Results.unity
+    guid: dec5fb4aa982fc64cbd874514d3b52cf
+  - enabled: 1
+    path: Assets/Scenes/Tutorials/BinaryTutorial.unity
+    guid: 44d4af7fff7067b4f9423eda5f10da9f
+  - enabled: 1
+    path: Assets/Scenes/Tutorials/ArithmeticTutorial.unity
+    guid: 0f902684ad4d9ad4ba71d0caefdcea32
+  - enabled: 1
+    path: Assets/Scenes/Tutorials/LogicTutorial.unity
+    guid: 64916eeeb5b14ff478e0d6ae3a966214
+  - enabled: 1
+    path: Assets/Scenes/Tutorials/LogicTutorialLevel.unity
+    guid: f11a48e2bbdefbb4e9c7eea20ea99801
+  m_configObjects: {}
